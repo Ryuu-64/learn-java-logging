@@ -1,0 +1,16 @@
+2024-07-22 12:00:32 [main] DEBUG org.ryuu.Main - This is a debug message
+2024-07-22 12:00:32 [main] INFO  org.ryuu.Main - This is an info message
+2024-07-22 12:00:32 [main] WARN  org.ryuu.Main - This is a warn message
+2024-07-22 12:00:32 [main] ERROR org.ryuu.Main - This is an error message
+2024-07-22 12:02:39 [main] DEBUG org.ryuu.Main - This is a debug message
+2024-07-22 12:02:39 [main] INFO  org.ryuu.Main - This is an info message
+2024-07-22 12:02:39 [main] WARN  org.ryuu.Main - This is a warn message
+2024-07-22 12:02:39 [main] ERROR org.ryuu.Main - This is an error message
+2024-07-22 12:05:15 [main] DEBUG org.ryuu.Main - This is a debug message
+2024-07-22 12:05:15 [main] INFO  org.ryuu.Main - This is an info message
+2024-07-22 12:05:15 [main] WARN  org.ryuu.Main - This is a warn message
+2024-07-22 12:05:15 [main] ERROR org.ryuu.Main - This is an error message
+2024-07-22 12:05:24 [main] DEBUG org.ryuu.Main - This is a debug message
+2024-07-22 12:05:24 [main] INFO  org.ryuu.Main - This is an info message
+2024-07-22 12:05:24 [main] WARN  org.ryuu.Main - This is a warn message
+2024-07-22 12:05:24 [main] ERROR org.ryuu.Main - This is an error message
